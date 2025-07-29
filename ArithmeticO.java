@@ -1,3 +1,4 @@
+//JAVA program on Arithmetic Operators using Scanner
 package oops_practical;
 
 import java.util.Scanner;
