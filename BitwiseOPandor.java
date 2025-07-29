@@ -1,3 +1,4 @@
+//JAVA program on Bitwise AND & OR
 package oops_practical;
 
 import java.util.Scanner;
